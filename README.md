@@ -1,3 +1,5 @@
+# ⚠️ Kindly note that this is the earliest version of the app and this repo was archived, but the app is *ACTIVELY* being re-written from the ground up ⚠️
+
 # Relate - A Mental Health Social App
 
 ## Overview
